@@ -5,8 +5,8 @@ import "./assets/img/rigo-baby.jpg";
 import "./assets/img/4geeks.ico";
 
 window.onload = function() {
-  document.getElementById("generarexcusa").addEventListener("click", () => {
-    document.getElementById("excusa").innerHTML = generarescusa();
+  document.getElementById("#generarexcusa").addEventListener("click", () => {
+    document.getElementById("#excuse").innerHTML = generarescusa();
   });
 };
 
